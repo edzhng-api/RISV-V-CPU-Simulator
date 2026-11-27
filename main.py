@@ -6,10 +6,10 @@ Description:
     Replace this line with a description of your program.
 
 Assignment Information:
-    Assignment:     e.g. 7.2.1 Py1 Team 1 (for Python 1 Team task 1)
+    Assignment:     Final Project - CPU Simulator
     Team ID:        ### - ## (e.g. LC1 - 01; for section LC1, team 01)
     Author:         Edison Zheng, zhen1058@purdue.edu
-    Date:           e.g. 01/23/2026
+    Date:           11/24/2026
 
 Contributors:
     Name, login@purdue [repeat for each]
